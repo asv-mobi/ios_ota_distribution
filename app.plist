@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/asv-mobi/ios_ota_distribution/master/app.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/yw4qnfk2f4fum5e/OHDemo_2015Nov23_1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Installing</string>
+				<string>OHDemo_2015Nov23_1</string>
 			</dict>
 		</dict>
 	</array>

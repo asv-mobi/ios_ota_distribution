@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/7ifvzc0be3jhh81/OHMaterial_2015Dec23_fbab15e_test.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/plxfhrkemrgw0ky/OHMaterial_2015Dec23_fbab15e_test_2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.asv.OHMaterialApp</string>
+				<string>com.asv.MaterialApp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>OHMaterial_2015Dec23_fbab15e_test</string>
+				<string>OHMaterial_2015Dec23_fbab15e_test_2</string>
 			</dict>
 		</dict>
 	</array>

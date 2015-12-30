@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/gqpl9lqwwgnlirj/Nozai_2015Dec30_0d9579f_QC.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/m6cczwrm57wxu89/OHMaterial_2015Dec30_testUDID.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.oh.MaterialApp</string>
+				<string>com.asv.MaterialApp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Nozai_2015Dec30_0d9579f_QC</string>
+				<string>OHMaterial_2015Dec30_testUDID</string>
 			</dict>
 		</dict>
 	</array>

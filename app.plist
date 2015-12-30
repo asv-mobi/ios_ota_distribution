@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/rad7p9uuwoo6po6/abc.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/gqpl9lqwwgnlirj/Nozai_2015Dec30_0d9579f_QC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.aoi-sys.installing</string>
+				<string>com.oh.MaterialApp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Installing</string>
+				<string>Nozai_2015Dec30_0d9579f_QC</string>
 			</dict>
 		</dict>
 	</array>

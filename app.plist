@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.asv.sfaapp</string>
+				<string>com.openhouse.sfamobile</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
